@@ -24,3 +24,9 @@
    As any RRT; a graph 𝐺 is created of nodes denoted 𝑉 (𝑣𝑒𝑟𝑡𝑖𝑐𝑒𝑠) that stores the final states of the car where the control inputs sequence to travel from initial node (parent) to current node (child) is stored in the edges 𝐸. 𝐷 denotes the Deleted nodes set that contains all nodes that are in collision to avoid repetition. The Extend function enables the tree to grow where each time we select a random node as parent to branch by applying random actions, we add the resulting node to 𝑉 and applied actions to 𝐸 if it is in the free collision set. In the case of the resulting node is in collision, we discard the applied action and we save the node in delete set. 𝑅𝑎𝑛𝑑𝑜𝑚_𝑆𝑎𝑚𝑝𝑙𝑒 function choose randomly a node from 𝑉 and try to explore wide range area.
    
 <img src="https://github.com/Tarekbouamer/Optimal-Control-and-Planning-for-Autonomous-Driving/blob/master/me/Alg3.png?raw=true" align="center" width="600"/> 
+
+the planning diagram:
+
+
+# Trajectory Control
+
