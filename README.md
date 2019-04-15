@@ -40,5 +40,18 @@ the planning diagram:
 
 <img src="https://github.com/Tarekbouamer/Optimal-Control-and-Planning-for-Autonomous-Driving/blob/master/me/Alg7.png?raw=true" align="center" width="600"/> 
 
+# Results 
+1) planner like driver: 
+
+<img src="https://github.com/Tarekbouamer/Optimal-Control-and-Planning-for-Autonomous-Driving/blob/master/me/res1.png?raw=true" align="left" width="600"/>
+<img src="https://github.com/Tarekbouamer/Optimal-Control-and-Planning-for-Autonomous-Driving/blob/master/me/res2.png?raw=true" align="left" width="600"/>
+<img src="https://github.com/Tarekbouamer/Optimal-Control-and-Planning-for-Autonomous-Driving/blob/master/me/res3.png?raw=true" align="left" width="600"/>
+
+2) NMPC (Circuit Nevers Magny Track in Bourgogne - France): 
+
+<img src="https://github.com/Tarekbouamer/Optimal-Control-and-Planning-for-Autonomous-Driving/blob/master/me/res4.png?raw=true" align="left" width="600"/>
+<img src="https://github.com/Tarekbouamer/Optimal-Control-and-Planning-for-Autonomous-Driving/blob/master/me/res7.png?raw=true" align="left" width="600"/>
+<img src="https://github.com/Tarekbouamer/Optimal-Control-and-Planning-for-Autonomous-Driving/blob/master/me/res8.png?raw=true" align="left" width="600"/>
+
 
 
