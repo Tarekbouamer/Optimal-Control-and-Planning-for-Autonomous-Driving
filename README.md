@@ -1,6 +1,6 @@
 # Optimal-Control-and-Planning-for-Autonomous-Driving
 
-[![Watch the video](https://img.youtube.com/vi/BmEtG_h6rug/maxresdefault.jpg)](https://www.youtube.com/watch?v=BmEtG_h6rug)
+[![Watch the video](https://img.youtube.com/vi/BmEtG_h6rug/hqdefault.jpg)](https://www.youtube.com/watch?v=BmEtG_h6rug)
 
 
 # Abstract
