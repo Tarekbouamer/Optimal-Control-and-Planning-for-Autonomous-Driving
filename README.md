@@ -53,22 +53,12 @@ the planning diagram:
 <img src="https://github.com/Tarekbouamer/Optimal-Control-and-Planning-for-Autonomous-Driving/blob/master/me/res7.png?raw=true" align="left" width="600"/>
 <img src="https://github.com/Tarekbouamer/Optimal-Control-and-Planning-for-Autonomous-Driving/blob/master/me/res8.png?raw=true" align="left" width="600"/>
 
+```
+```
 
+# Contributing
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+I welcome contributions from the public.
 
 
 # Contact Details
