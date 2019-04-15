@@ -57,9 +57,6 @@ the planning diagram:
 ```
 
 # Contributing
-
 I welcome contributions from the public.
-
-
-# Contact Details
+## Contact Details
 tarekbouamer1788@gmail.com
