@@ -27,6 +27,18 @@
 
 the planning diagram:
 
+<img src="https://github.com/Tarekbouamer/Optimal-Control-and-Planning-for-Autonomous-Driving/blob/master/me/Alg4.png?raw=true" align="center" width="600"/> 
 
-# Trajectory Control
+
+# NMPC Trajectory Control
+
+<img src="https://github.com/Tarekbouamer/Optimal-Control-and-Planning-for-Autonomous-Driving/blob/master/me/Alg5.png?raw=true" align="center" width="600"/> 
+
+<img src="https://github.com/Tarekbouamer/Optimal-Control-and-Planning-for-Autonomous-Driving/blob/master/me/Alg6.png?raw=true" align="center" width="600"/> 
+
+# Feedback + Feedforward Trajectory Control
+
+<img src="https://github.com/Tarekbouamer/Optimal-Control-and-Planning-for-Autonomous-Driving/blob/master/me/Alg7.png?raw=true" align="center" width="600"/> 
+
+
 
