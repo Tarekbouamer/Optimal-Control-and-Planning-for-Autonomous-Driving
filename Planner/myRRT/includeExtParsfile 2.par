@@ -1,0 +1,10 @@
+PARSFILE 
+ 
+OPT_INIT_CONFIG 0 
+ 
+OPT_INIT_PATH 0 
+ 
+INCLUDE C:\Users\Public\Documents\CarSim903_Data\myRRT\nodes\node2.par 
+ 
+END 
+ 

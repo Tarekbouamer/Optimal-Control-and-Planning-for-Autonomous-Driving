@@ -1,0 +1,92 @@
+PARSFILE
+#FullDataName CarSim Run Control`resume_their_way`MY_STUFF
+#VEHICLECODE Ind_Ind
+symbol_push  <<sensor_m>> 0
+symbol_push  <<ref_pt>> 0
+symbol_push  <<id_run>> Run_6bf0f64f-8b36-4e4a-aeac-41e4d09d2eb7
+
+OPT_ALL_WRITE 0
+IOBJECT 0
+OPT_INT_METHOD 2
+OPT_VS_FILETYPE 3
+PARSFILE Models\Simulink\Simlink_b2fcf776-f945-4544-a54b-47cd24216002.par
+#BlueLink12 Models: Simulink`TESTING_RESUME` MY_PARKING_STUFF` , Models`Simlink_b2fcf776-f945-4544-a54b-47cd24216002
+
+PARSFILE Animator\Cameras\Camera_358f7aeb-0e81-446e-a19f-f2c18b21801b.par
+#BlueLink0 Animator: Camera Setup`13 deg. Azimuth, Veh. Ref.` Vehicle Reference` , Animator camera`Camera_358f7aeb-0e81-446e-a19f-f2c18b21801b
+
+Title resume_their_way <MY_STUFF>
+CATEGORY MY_STUFF 
+DATASET_TITLE resume_their_way
+#CheckBox0 1    
+#CheckBox1 0    
+#CheckBox2 1    
+#CheckBox3 0    
+#CheckBox4 0    
+#CheckBox5 1    
+#CheckBox6 0    
+#CheckBox7 0    
+#CheckBox8 1    
+#CheckBox9 1    
+#CheckBox10 0    
+#CheckBox11 0    
+
+#RingCtrl0 0
+#RingCtrl1 0
+#RingCtrl2 0
+#RingCtrl3 0
+#RingCtrl6 0
+#RingCtrl7 -1
+*RUN_COLOR 0.8 0 0
+PARSFILE Vehicles\Assembly\Vehicle_8711dec1-97a0-4ba4-9076-a039316ef02d.par
+#BlueLink2 Vehicle: Assembly`C-Class, Hatchback 2012 REAR WHEEL` CS C-Class` , Vehicle configuration`Vehicle_8711dec1-97a0-4ba4-9076-a039316ef02d
+
+PARSFILE Procedures\Proc_b4e5d9a8-329b-4efe-b15a-0fff80e60f72.par
+#BlueLink28 Procedures`maneuvers` initial cond` , Procedure`Proc_b4e5d9a8-329b-4efe-b15a-0fff80e60f72
+
+#BlueLink9 `Include external parsfile` ` , Misc.`
+
+#BlueLink11 ` , Misc.` , Misc.` , Misc.`
+
+OPT_STOP 0
+TSTART 0
+TSTART_WRITE = TSTART;
+TSTOP 100
+OPT_DIRECTION 1
+*TSTOP 100
+*TSTART 0
+
+*IMAGE_TYPE PASS_THROUGH
+*IMAGE_PASS_THROUGH Vehicles\Assembly\Vehicle_8711dec1-97a0-4ba4-9076-a039316ef02d.png
+
+OPT_ALL_WRITE 1
+WRITE_SENSOR_DETECT
+#MiscYellow0
+OPT_ECHO_ICS 1
+OPT_CALC_STATIC 0
+OPT_INIT_SPEED 0
+OPT_INIT_CONFIG 0 
+OPT_INIT_PATH 0
+#ENDMYellow
+
+
+#EMBEDDED_NOTES
+#ATTENTION *ALL* CarSim USERS:  Please take the time to follow the Quick Start Guide to learn the basics of using CarSim 9.0 and the new features introduced in this version of the software, such as the synchronized plotting and video.
+#
+#Use this example when you follow the steps in the Quick Start Guide.
+#
+#Open the Quick Start Guide from the Help menu; it's near the bottom.
+#
+#Note: this example has the box checked to "Write all outputs." That simplifies the use of this run as a reference for comparisons with other runs that might have different plot settings.
+#END_EMBEDDED_NOTES
+
+LOG_ENTRY Used Dataset: CarSim Run Control; { MY_STUFF } resume_their_way
+#Library : CarSim Run Control
+#DataSet : resume_their_way
+#Category: MY_STUFF
+#FileID  : Run_6bf0f64f-8b36-4e4a-aeac-41e4d09d2eb7
+#Product : CarSim 9.0.3, June 2015
+#Last update: 02-18-2016 10:54
+#VehCode Run
+
+END

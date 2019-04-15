@@ -1,0 +1,8 @@
+PARSFILE 
+ 
+SPECIAL_PARSFILE C:\Users\Public\Documents\CarSim903_Data\myRRT\nodes2\node1_end.par 
+ 
+PARSFILE C:\Users\Public\Documents\CarSim903_Data\myRRT\nodes2\node1.par 
+ 
+END 
+ 
