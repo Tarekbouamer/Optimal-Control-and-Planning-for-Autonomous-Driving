@@ -1,5 +1,8 @@
 # Optimal-Control-and-Planning-for-Autonomous-Driving
 
+[![Watch the video](https://img.youtube.com/vi/BmEtG_h6rug/maxresdefault.jpg)](https://www.youtube.com/watch?v=BmEtG_h6rug)
+
+
 # Abstract
    Safety is an emerging tasks in the field of Self-driving Cars that includes Perception, Planning and Decision Making fields to improve the autonomy in all driving conditions especially in the urban driving where the cars shares the environment with other vehicles and pedestrians. Several research activities has been done and some promising results were achieved.
 
